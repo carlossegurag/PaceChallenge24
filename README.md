@@ -1,4 +1,4 @@
-# PaceChallenge24
+# PaceChallenge24 - Heuristic Track
 Solver based on a Memetic Algorithm with explicit management of diversity for the one-sided crossing minimization problem.
 
 In order to compile it, just enter the src folder and execute make. The only dependency is g++.
